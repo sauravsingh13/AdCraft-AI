@@ -1,36 +1,24 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+AdCraft AI is a responsive, user-friendly tool that instantly generates high-quality advertising copy from simple product descriptions. Designed for marketers, e-commerce businesses, and content creators, it eliminates the hassle of manual copywriting by leveraging AI to produce compelling, conversion-focused ad text in seconds.
 
-## Getting Started
+How It Works
+Users simply input their product or promotion details into the clean, intuitive interface. With a single click, AdCraft AI processes the description and generates polished, engaging ad copy—complete with a catchy headline and persuasive body text. The tool includes a loading indicator for real-time feedback and allows users to clear results for quick iterations.
 
-First, run the development server:
+Key Features
+AI-Generated Ad Copy – Transforms basic descriptions into professional, sales-driven content.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Responsive Design – Works seamlessly on mobile, tablet, and desktop.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Minimalist & User-Friendly UI – Focused on simplicity with clear headings, subtle shadows, and intuitive controls.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Interactive Elements – Includes a dynamic "Generate" button with disabled states, loading animations, and a close option for generated content.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Modern Aesthetics – Clean layout with a professional color scheme (blues and grays) for a trustworthy, polished look.
 
-## Learn More
+Why Use AdCraft AI?
+Saves Time – No more staring at a blank screen—get ad-ready text instantly.
 
-To learn more about Next.js, take a look at the following resources:
+Enhances Marketing Efforts – Produces consistent, high-converting copy tailored to promotions.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Adaptable & Scalable – Fits into any workflow, whether used standalone or integrated into a larger platform.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Built with Next js and TypeScript, AdCraft AI combines functionality with sleek design, making it an essential tool for anyone looking to streamline their ad creation process. Whether you're running a weekend sale or launching a new product, AdCraft AI helps you craft the perfect message—effortlessly.
